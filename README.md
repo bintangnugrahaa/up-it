@@ -29,7 +29,7 @@ This website template provides information about the Department of Informatics E
 1. Clone this repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/yourusername/pancasila-informatics.git
+git clone https://github.com/bintangnugrahaa/up-it.git
 ```
 
 2. Open the `index.html` file in your web browser to view the website locally.
