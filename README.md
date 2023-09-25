@@ -50,6 +50,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Contact
 
-`My Name` : Muhammad Bintang Nugraha
+Create by : Muhammad Bintang Nugraha
 
-`Email` : djakarta1973@gmail.com
+Email : djakarta1973@gmail.com
