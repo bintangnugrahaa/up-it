@@ -9,7 +9,7 @@ This is a simple HTML template for a website representing the Department of Info
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact Me](#contact)
 
 ## Description
 
