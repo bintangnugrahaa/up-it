@@ -32,7 +32,7 @@ This website template provides information about the Department of Informatics E
 git clone https://github.com/yourusername/pancasila-informatics.git
 ```
 
-2. Open the index.html file in your web browser to view the website locally.
+2. Open the `index.html` file in your web browser to view the website locally.
 
 ## Usage
 
