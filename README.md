@@ -2,6 +2,8 @@
 
 This is a simple HTML template for a website representing the Department of Informatics Engineering at Universitas Pancasila.
 
+![Tampilan Awal](img/tampilan.png)
+
 ## Table of Contents
 
 - [Description](#description)
