@@ -12,8 +12,8 @@ git clone https://github.com/bintangnugrahaa/up-it.git
 
 2. Open the `index.html` file in your web browser to view the website locally.
 
-## Me
+## Who I Am
 
-Create by : Muhammad Bintang Nugraha
+Muhammad Bintang Nugraha
 
-Email : djakarta1973@gmail.com
+Email : stareighteenn@protonmail.com
